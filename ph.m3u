@@ -25,10 +25,6 @@ http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v8
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
 #EXTINF:-1,Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-#EXTINF:-1,BBC News Asia Pacific (720p)
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1,CLTV 36 (720p) [Not 24/7]
-https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
@@ -51,8 +47,6 @@ https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,TFC GUAM
-https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1,Blues TV
@@ -69,4 +63,35 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
+#EXTINF:-1 tvg-id="ANC.ph@SD",ANC (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="AniOne.hk@SD",Ani-Blast (720p)
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph@SD",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="CinemaOne.ph@SD",Cinema One (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="CineMo.ph@SD",CineMo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="CLTV36.ph@SD",CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines (1080p)
+https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+#EXTINF:-1 tvg-id="PremierSports.ph@SD",Premier Sports (1080p)
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD",Premier Sports 2 (1080p)
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleRadyo.ph@HD",TeleRadyo (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+#EXTINF:-1 tvg-id="IBC13.ph@SD",IBC 13 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="NudgeSportsChannel.ph@HD",Nudge Sports Channel (1080p)
+https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8
+#EXTINF:-1 tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD",Vegas Life TV
+https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
