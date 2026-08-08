@@ -1,37 +1,64 @@
 #EXTM3U
 #EXTINF:-1,A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,DepEd TV
-http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,ALLTV
+#EXTINF:-1,ALLTV 2
 http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,Jeepney TV
-http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="JeepneyTV.ph@SD",Jeepney-TV
+https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
+#EXTINF:-1 tvg-id="ANC.ph@SD",ANC
+https://streams.comclark.com/pknsd/anc/playlist.m3u8
+#EXTINF:-1 tvg-id="CineMo.ph@SD",Cinemo
+https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
+#EXTINF:-1 tvg-id="",DZMM TeleRadyo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+#EXTINF:-1,Knowledge Channel
+http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="PTV.ph@SD",PTV 4 
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 tvg-id="IBC13.ph@SD",IBC 13 
+https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
+#EXTINF:-1 tvg-id="KongressTV.ru@SD",Congress TV
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+#EXTINF:-1 tvg-id="TV5.ph@SD",TV5
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="RPTV.ph@SD",RPTV
+https://streams.comclark.com/pknsd/rptv/playlist.m3u8
+#EXTINF:-1 tvg-id="KapatidTV5.ph@SD",Kapatid Channel
+https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
+#EXTINF:-1 tvg-id="CartoonChannelPH.ph@SD",Cartoon Channel PH
+https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv
+#EXTINF:-1 tvg-id="Nickelodeon.ph@SD",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8
 #EXTINF:-1,Cartoonito
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1,Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1,FilAm TV Network
 https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
 #EXTINF:-1,TV Maria
 http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1,Tagalized Movie Channel
 http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1,GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="GTV.ph@SD",GTV 
+https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 #EXTINF:-1,INCTV (720p) [Geo-blocked]
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1,Vegas Life TV
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
 #EXTINF:-1,Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-#EXTINF:-1,BBC News Asia Pacific (720p)
+#EXTINF:-1,BBC News Asia Pacific
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1,CLTV 36 (720p) [Not 24/7]
+#EXTINF:-1,CLTV-36 
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD",Abante TV 
+https://streams.comclark.com/transcodesd/abante/playlist.m3u8
+#EXTINF:-1,Bilyonario News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-#EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTINF:-1,EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -57,21 +84,31 @@ https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1,Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-#EXTINF:-1,Japanim TV (1080p)
+#EXTINF:-1,Japanim TV
 https://foxkidstv.be:3369/stream/play.m3u8
-#EXTINF:-1,Magic Kids (486p)
+#EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Yahoo! Finance (1080p)
+#EXTINF:-1,Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,EWTN Europe (720p) [Not 24/7]
+#EXTINF:-1,EWTN Europe
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#ECTINF:-1,Kapamilya Online Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707731616/ei/QJbJZZiXIZ2D5t0P9PiQwAs/ip/175.176.7.129/id/XHDrMh-Ee6E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f1DbtFosIjbTMvHJwmGcCHEzJoLi1hMiETEb40m61Ag/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,ctier,playlist_duration,manifest_duration,maudio,gcr,spc,vprv,go,itag,playlist_type/sig/AJfQdSswRAIgOqNkFSx-6Ep_J5hh0La9VRHl6lSEycauErSbih6UOXoCIDO5q0yz2ioWqajCwDT3xZXqUSAJmqG_BihHzBaiqpC9/file/index.m3u8
 #ECTINF:-1, Animax
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #ECTINF:-1, Kapamilya Channel
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel
+https://streams.comclark.com/pknsd/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="AniOne.hk@SD",Ani-Blast 
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1,NBA TV
+https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines
+https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+#EXTINF:-1 tvg-id="PremierSports.ph@SD",Premier Sports 
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD",Premier Sports 2 
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
