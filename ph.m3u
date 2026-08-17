@@ -31,10 +31,10 @@ https://streams.comclark.com/pknsd/tv5/playlist.m3u8
 https://streams.comclark.com/pknsd/rptv/playlist.m3u8
 #EXTINF:-1 tvg-id="OneSports.ph@SD",One Sports 
 https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
-#EXTINF:-1 tvg-id="OneMediaNetwork.ph@SD",One Media Network
-https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="KapatidTV5.ph@SD",Kapatid Channel
 https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
+#EXTINF:-1 tvg-id="OneMediaNetwork.ph@SD",One Media Network
+https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonChannelPH.ph@SD",Cartoon Channel PH
 https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv
 #EXTINF:-1 tvg-id="Nickelodeon.ph@SD",Nickelodeon
@@ -79,6 +79,8 @@ https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
 https://streams.comclark.com/pknsd/net_25/playlist.m3u8
 #EXTINF:-1,INC TV 
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 tvg-id="INCRadio.ph@SD",INC Radio
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
 #EXTINF:-1,Vegas Life TV
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
 #EXTINF:-1,Mindanow Network TV
@@ -109,14 +111,12 @@ https://streams.comclark.com/pknsd/fuji/playlist.m3u8
 https://streams.comclark.com/pknsd/cctv_4/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn@SD",CGTN 
 https://streams.comclark.com/pknsd/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD",CGTN Documentary 
-https://streams.comclark.com/pknsd/cgtn_documentary/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg@SD",CNA 
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
-#EXTINF:-1,CGTN News Live
-http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO 
 #EXTINF:-1,CGTN Documentaries
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph@SD",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1,Thrillers
