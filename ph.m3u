@@ -35,10 +35,6 @@ https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
 https://thinkkast.dpdns.org/tkk-ph/i7/kapatid_hd/kapatid.m3u8
 #EXTINF:-1 tvg-id="GoldenNationNetwork.ph@SD",Golden Nation Network
 https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonChannelPH.ph@SD",Cartoon Channel PH
-https://stream-cdn-iad3.vaughnsoft.net/play/live_cartoonchannelph.flv
-#EXTINF:-1 tvg-id="Nickelodeon.ph@SD",Nickelodeon
-https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="NickJrAsia.sg@SD",Nick Jr
 https://streams.comclark.com/pknsd/nickjr/playlist.m3u8
 #EXTINF:-1,Cartoonito
@@ -152,7 +148,7 @@ https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1,NBA TV
 https://cdn1.ayitistream.com/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines
-https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 #EXTINF:-1 tvg-id="PremierFootball.ph@SD",Premier Football 
 https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
 #EXTINF:-1 tvg-id="PremierSports.ph@SD",Premier Sports
