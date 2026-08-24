@@ -75,3 +75,13 @@ https://stream.zeno.fm/2ss1hgnu6hhvv
 http://icecast.eradioportal.com:8000/energyfm_manila
 #EXTINF:-1,MOR 101.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3
+#EXTINF:-1,DZRJ 810 AM
+http://111.125.87.226:8000/dzrjam
+#EXTINF:-1,Monster RX93.1
+https://in-icecast.eradioportal.com:8443/monsterrrx
+#EXTINF:-1,90.5 Heart FM
+https://radio.905heartfm.com:8000/radio.mp3
+#EXTINF:-1,93.5 City Radio
+https://cdnstream1.typicalmedia.net/yourradio
+#EXTINF:-1,DZAS
+http://icecast.eradioportal.com:8000/febc_dzas
