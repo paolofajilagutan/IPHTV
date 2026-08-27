@@ -77,6 +77,24 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+#EXTINF:-1,3ABN
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+#EXTINF:-1,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1,CCTV 4
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1,Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1,Al Saudiya
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/index.m3u8
+#EXTINF:-1,Euronews
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1,TV5Monde Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1,TVE Internacional Asia Oceania
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 #EXTINF:-1,91.5 Win Radio Manila
 https://stream.zeno.fm/2ss1hgnu6hhvv
 #EXTINF:-1,Energy FM Manila
