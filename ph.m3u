@@ -53,6 +53,8 @@ https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,3ABN
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1,3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1,Blues TV
@@ -77,8 +79,14 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines
 https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
-#EXTINF:-1,3ABN
-https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+#EXTINF:-1,Mindanow Network TV
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1,Living Asia Channel
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1,FilAmTV Network
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+#EXTINF:-1,Vegas Life TV 
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
 #EXTINF:-1,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1,CNA
