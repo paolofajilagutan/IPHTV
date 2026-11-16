@@ -173,9 +173,9 @@ http://sg-icecast.eradioportal.com:8000/febc_dzfe
 https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
 #EXTINF:-1,MOR 101.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3
-#EXTINF:-1,106.7 Energy FM Manila
-https://stream.zeno.fm/dnddzf0osc1uv
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
 https://stream.zeno.fm/69b1kf7q0y5tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yhvWcG2.jpeg" group-title="Ph Live Radio",105.9 True FM
 https://www.truefm.ph/radio-stream/playlist.m3u8
+#EXTINF:-1,106.7 Energy FM Manila
+https://stream.zeno.fm/dnddzf0osc1uv
